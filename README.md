@@ -9,4 +9,5 @@ to run the it you need to put
 run = "lua main.lua"
 
 in .replit
+
 repl also has a way to submit a pull request in version control
